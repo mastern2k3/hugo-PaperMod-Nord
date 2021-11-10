@@ -236,6 +236,12 @@
     margin: 1rem 0;
 }
 
+.post-content .darksafe {
+    background-color: var(--entry);
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
 .post-content img[src*="#center"] {
     margin: 1rem auto;
 }
