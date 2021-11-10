@@ -238,6 +238,7 @@
 
 .post-content .darksafe {
     background-color: var(--entry);
+    border-radius: 4px;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
