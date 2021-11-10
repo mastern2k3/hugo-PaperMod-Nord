@@ -6,6 +6,8 @@
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
+
+/* Original Colors
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
     --primary: rgb(30, 30, 30);
@@ -15,9 +17,20 @@
     --hljs-bg: rgb(28, 29, 33);
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
+*/
+
+    --theme: rgb(255, 255, 255);
+    --entry: rgb(255, 255, 255);
+    --primary: #3B4252;
+    --secondary: #4C566A;
+    --tertiary: #D8DEE9;
+    --content: #2E3440;
+    --hljs-bg: #242934;
+    --code-bg: #ECEFF4;
+    --border: #D8DEE9;
 }
 
-/* Original colors
+/* Original Colors
 .dark {
     --theme: rgb(29, 30, 32);
     --entry: rgb(46, 46, 51);
@@ -43,6 +56,7 @@
     --border: #434C5E;
 }
 
+/*
 .list {
     background: var(--code-bg);
 }
@@ -50,3 +64,4 @@
 .dark.list {
     background: var(--theme);
 }
+*/
