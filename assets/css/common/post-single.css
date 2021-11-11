@@ -72,6 +72,7 @@
 .post-content a,
 .toc a:hover {
     box-shadow: 0 1px 0;
+    color: var(--link);
 }
 
 .post-content a code {
@@ -236,8 +237,8 @@
     margin: 1rem 0;
 }
 
-.post-content .darksafe {
-    background-color: var(--entry);
+.dark .post-content .darksafe {
+    background-color: var(--secondary);
     border-radius: 4px;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
